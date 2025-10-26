@@ -1,9 +1,11 @@
-📚 StudyNotion – MERN Stack Ed-Tech Platform
+#📚 StudyNotion – MERN Stack Ed-Tech Platform
 
 StudyNotion is a full-stack ed-tech web application built using the MERN stack that enables users to create, consume, and rate educational content. It offers an engaging learning experience for students and a platform for instructors to showcase their expertise.
 
-🚀 Features
-👨‍🎓 For Students
+---
+
+#🚀 Features
+#👨‍🎓 For Students
 
 Browse, purchase, and learn from a variety of courses
 
@@ -13,7 +15,7 @@ Watch video lectures and access course materials
 
 Rate and review courses
 
-👨‍🏫 For Instructors
+#👨‍🏫 For Instructors
 
 Create, update, and delete courses
 
@@ -21,13 +23,15 @@ Upload and manage video lectures and documents
 
 Track student engagement and course performance
 
-⚙️ For Admin (future scope)
+#⚙️ For Admin (future scope)
 
 Manage users, instructors, and courses
 
 View insights like platform revenue, user growth, and ratings
 
-🧠 Tech Stack
+---
+
+#🧠 Tech Stack
 Layer	Technologies Used
 Frontend	ReactJS, Redux, Tailwind CSS
 Backend	NodeJS, ExpressJS
@@ -37,7 +41,9 @@ Payments	Razorpay Integration
 Media Management	Cloudinary
 Design	Figma
 
-🧩 Key Functionalities
+---
+
+#🧩 Key Functionalities
 
 Secure authentication and authorization using JWT & bcrypt
 
