@@ -2,11 +2,7 @@
 
 StudyNotion is a full-stack ed-tech web application built using the MERN stack that enables users to create, consume, and rate educational content. It offers an engaging learning experience for students and a platform for instructors to showcase their expertise.
 
----
-
 # **🚀 Features**
-
----
 
 ## **👨‍🎓 For Students**
 
@@ -15,7 +11,6 @@ StudyNotion is a full-stack ed-tech web application built using the MERN stack t
 - Watch video lectures and access course materials  
 - Rate and review courses  
 
----
 
 ## **👨‍🏫 For Instructors**
 
@@ -23,14 +18,12 @@ StudyNotion is a full-stack ed-tech web application built using the MERN stack t
 - Upload and manage video lectures and documents  
 - Track student engagement and course performance  
 
----
 
 ## **⚙️ For Admin (future scope)**
 
 - Manage users, instructors, and courses  
 - View insights like platform revenue, user growth, and ratings  
 
----
 
 # **🧠 Tech Stack**
 
@@ -44,7 +37,6 @@ StudyNotion is a full-stack ed-tech web application built using the MERN stack t
 | Media Management | Cloudinary                 |
 | Design         | Figma                        |
 
----
 
 # **🧩 Key Functionalities**
 
